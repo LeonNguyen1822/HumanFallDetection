@@ -19,7 +19,7 @@ This project is a fall detection system that uses an RGB camera to detect falls 
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/garrichf/i42.git
+    git clone https://github.com/LeonNguyen1822/HumanFallDetection.git
     cd <repository-directory>
     ```
 
